@@ -1,6 +1,5 @@
 streamlit==1.38.0
 pandas
-streamlit-option-menu==0.3.6
 streamlit-extras
 matplotlib
 altair
@@ -8,4 +7,4 @@ plotly
 wordcloud
 nltk
 annotated-text
-streamlit-card
+streamlit-option-menu
