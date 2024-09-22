@@ -7,9 +7,8 @@ import altair as alt
 import plotly.graph_objects as go
 import plotly.express as px
 from wordcloud import WordCloud, STOPWORDS
-import nltk
-nltk.download('stopwords')
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 from annotated_text import annotated_text
 from streamlit_card import card
 
