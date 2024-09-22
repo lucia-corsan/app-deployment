@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-!pip install streamlit-option-menu
 from streamlit_option_menu import option_menu
-!pip install streamlit-extras
 from streamlit_extras.colored_header import colored_header
 import matplotlib.pyplot as plt
 import altair as alt
