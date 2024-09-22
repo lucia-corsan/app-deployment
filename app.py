@@ -11,6 +11,8 @@ from nltk.corpus import stopwords
 from annotated_text import annotated_text
 from streamlit_card import card
 
+nltk.download('stopwords')
+
 STOPWORDS_NLTK = set(stopwords.words('spanish'))
 
 st.set_page_config(
