@@ -6,5 +6,4 @@ altair
 plotly
 wordcloud
 nltk
-annotated-text
 streamlit-option-menu
