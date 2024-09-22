@@ -7,11 +7,10 @@ import altair as alt
 import plotly.graph_objects as go
 import plotly.express as px
 from wordcloud import WordCloud, STOPWORDS
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from annotated_text import annotated_text
 from streamlit_card import card
-
-nltk.download('stopwords')
 
 STOPWORDS_NLTK = set(stopwords.words('spanish'))
 
