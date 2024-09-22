@@ -1,6 +1,6 @@
 streamlit
 pandas
-streamlit-option-menu
+streamlit_option_menu
 streamlit-extras
 matplotlib
 altair
