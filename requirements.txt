@@ -1,0 +1,11 @@
+streamlit
+pandas
+streamlit-option-menu
+streamlit-extras
+matplotlib
+altair
+plotly
+wordcloud
+nltk
+annotated-text
+streamlit-card
