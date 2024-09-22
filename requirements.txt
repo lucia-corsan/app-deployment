@@ -5,5 +5,5 @@ matplotlib
 altair
 plotly
 wordcloud
-nltk
+nltk.corpus
 streamlit-option-menu
